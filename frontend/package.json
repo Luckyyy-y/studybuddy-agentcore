@@ -1,0 +1,14 @@
+{
+  "name": "studybuddy-ui",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local chat UI for the StudyBuddy Amazon Bedrock AgentCore workshop",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node --check server.js && node --check public/app.js"
+  },
+  "dependencies": {
+    "@aws-sdk/client-bedrock-agentcore": "^3.1155.0",
+    "express": "^5.3.0"
+  }
+}

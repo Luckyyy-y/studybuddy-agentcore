@@ -1,0 +1,2 @@
+# Preserve snapshot bytes so the recorded source and screenshot hashes stay valid.
+* -text

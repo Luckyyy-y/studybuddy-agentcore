@@ -1,0 +1,65 @@
+[
+  {
+    "file": "agent.py",
+    "sha256": "eba7c011e515513242b45ce29ab8b124e703a6c8578aa0f5b8851be3dfc1a216",
+    "copy": "unchanged local snapshot"
+  },
+  {
+    "file": "requirements.txt",
+    "sha256": "621adc08e170848eff5517f69f43e8b450ee0d5f17d9ec40babf5628a98add5d",
+    "copy": "unchanged local snapshot"
+  },
+  {
+    "file": "package-and-upload.sh",
+    "sha256": "2c8663197f48c5912bbdfd51b374feb650ecb4c27e25be559f24974f634451f6",
+    "copy": "unchanged local snapshot"
+  },
+  {
+    "file": "frontend/server.js",
+    "sha256": "5ab2150a036329d4771b7989fbbf0a84cb43143094b414358d84dbb6dd407ae6",
+    "copy": "unchanged local snapshot"
+  },
+  {
+    "file": "frontend/package.json",
+    "sha256": "7a1b942cecd06decb6c99556a64ed30c24114701464856ed1ede9ee654899019",
+    "copy": "unchanged local snapshot"
+  },
+  {
+    "file": "frontend/package-lock.json",
+    "sha256": "cecf771ee6c9fc0836f6dae90a7203f08555558ce63c374873d531a00377a3d3",
+    "copy": "unchanged local snapshot"
+  },
+  {
+    "file": "frontend/public/index.html",
+    "sha256": "1b6c49dec1c58c4a7e8b393d10f547c8d4c6be6a90016e68a2d4f04f909be170",
+    "copy": "unchanged local snapshot"
+  },
+  {
+    "file": "frontend/public/app.js",
+    "sha256": "fa68a9028f0a5c4a93702126d975905f5ce90eff8b1a0a0842b6609d0d088486",
+    "copy": "unchanged local snapshot"
+  },
+  {
+    "file": "frontend/public/styles.css",
+    "sha256": "4abcc5ec351224f0bb7ec4b3805efb8eb17e82fd97196703b9225578bfed6bfc",
+    "copy": "unchanged local snapshot"
+  },
+  {
+    "file": "docs/images/local-agent-response.png",
+    "sha256": "b1b6ce802cd35f91432d82311c16450bec26c574096e57effe9c2327e23a9a24",
+    "sourceFilename": "01-local-agent-success.png",
+    "copy": "unchanged screenshot; renamed to match visible content"
+  },
+  {
+    "file": "docs/images/browser-memory-recall.png",
+    "sha256": "901dd6a48dd56d3843e6f6a75f202f3e3a116ae384180e011a6c5d0c42deb082",
+    "sourceFilename": "07-studybuddy-chat-ui.png",
+    "copy": "unchanged screenshot; renamed to match visible content"
+  },
+  {
+    "file": "docs/images/browser-study-response.png",
+    "sha256": "b128e0565b43b256858a7a6903b4cabd1ff1a9b71676adea561892d957a03905",
+    "sourceFilename": "08-studybuddy-browser-memory.png",
+    "copy": "unchanged screenshot; renamed to match visible content"
+  }
+]
